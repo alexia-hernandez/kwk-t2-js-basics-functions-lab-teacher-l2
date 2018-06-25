@@ -2,3 +2,5 @@
 
 function distanceFromHqInBlocks (blocknumber);
   if (blocknumber )
+  
+function   
